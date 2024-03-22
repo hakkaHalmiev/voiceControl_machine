@@ -1,0 +1,113 @@
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\obj\Debug\MGR.csprojResolveAssemblyReference.cache
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\obj\Debug\MGR.MainForm.resources
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\obj\Debug\MGR.csproj.GenerateResource.Cache
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\bin\Debug\MGR.exe.config
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\bin\Debug\MGR.exe
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\bin\Debug\MGR.pdb
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\obj\Debug\MGR.exe
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\obj\Debug\MGR.pdb
+C:\Users\adily\OneDrive\Belgeler\SharpDevelop Projects\MGR\MGR\obj\Debug\MGR.Form2.resources
+D:\MGR\MGR\bin\Debug\MGR.exe.config
+D:\MGR\MGR\bin\Debug\MGR.exe
+D:\MGR\MGR\bin\Debug\MGR.pdb
+D:\MGR\MGR\obj\Debug\MGR.csproj.AssemblyReference.cache
+D:\MGR\MGR\obj\Debug\MGR.csproj.SuggestedBindingRedirects.cache
+D:\MGR\MGR\obj\Debug\MGR.Form2.resources
+D:\MGR\MGR\obj\Debug\MGR.MainForm.resources
+D:\MGR\MGR\obj\Debug\MGR.csproj.GenerateResource.cache
+D:\MGR\MGR\obj\Debug\MGR.csproj.CoreCompileInputs.cache
+D:\MGR\MGR\obj\Debug\MGR.exe
+D:\MGR\MGR\obj\Debug\MGR.pdb
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\MGR.exe.config
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\MGR.exe
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\MGR.pdb
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\EasyModbus.dll
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\EasyModbus.xml
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.Form2.resources
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.MainForm.resources
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.Properties.Resources.resources
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.csproj.CopyComplete
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.exe
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.pdb
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\Sharp7.dll
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\Sharp7.pdb
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\NPlcMitsuMxCom.dll
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\NPlcMitsuMxCom.pdb
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\Interop.FBDQFPLib.dll
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\Interop.FBDQTDALib.dll
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\Tao.OpenGl.dll
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\User\Desktop\MGR C#\MGR\bin\Debug\Tao.OpenGl.ExtensionLoader.dll
+C:\Users\User\Desktop\MGR C#\MGR\obj\Debug\MGR.Form3.resources
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\MGR.exe.config
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\MGR.exe
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\MGR.pdb
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\EasyModbus.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\NPlcMitsuMxCom.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\Sharp7.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\Tao.OpenGl.ExtensionLoader.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\EasyModbus.xml
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\NPlcMitsuMxCom.pdb
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\bin\Debug\Sharp7.pdb
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\Interop.FBDQFPLib.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\Interop.FBDQTDALib.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.Form2.resources
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.Form3.resources
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.MainForm.resources
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.csproj.CopyComplete
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.exe
+C:\Users\User\Desktop\PROJECTS\KESİM\MGR C#\MGR\obj\Debug\MGR.pdb
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\MGR.exe.config
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\MGR.exe
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\MGR.pdb
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\EasyModbus.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\NPlcMitsuMxCom.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\Sharp7.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\Tao.OpenGl.ExtensionLoader.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\EasyModbus.xml
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\NPlcMitsuMxCom.pdb
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\bin\Debug\Sharp7.pdb
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\Interop.FBDQFPLib.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\Interop.FBDQTDALib.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.Form2.resources
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.Form3.resources
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.MainForm.resources
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.csproj.CopyComplete
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.exe
+C:\Users\User\Desktop\PROJECTS\CNC\MGR C#\MGR\obj\Debug\MGR.pdb
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.csproj.AssemblyReference.cache
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.csproj.ResolveComReference.cache
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.Form2.resources
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.Form3.resources
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.MainForm.resources
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.Properties.Resources.resources
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.csproj.GenerateResource.cache
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.csproj.CoreCompileInputs.cache
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.exe
+F:\Dosya-2\mecanicacnc yedek\speech\MGR C#\MGR\obj\Debug\MGR.pdb
